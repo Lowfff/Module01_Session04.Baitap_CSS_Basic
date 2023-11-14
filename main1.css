@@ -1,0 +1,42 @@
+.container {
+    background-color: #000;
+    color: #fff;
+}
+
+.form-container {
+    text-align: center;
+}
+
+.form {
+    margin: 0 auto;
+    width: 450px;
+}
+
+.form-input {
+    height: 20px;
+    width: 100%;
+    outline: none;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-heading {
+    text-align: center;
+}
+
+
+
+
+.form-label {
+    text-align: left;
+    display: block;
+    /* margin-bottom: 8px; */
+}
+
+.button {
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
